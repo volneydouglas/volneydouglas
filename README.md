@@ -62,7 +62,7 @@ The point at which a casual interest acquires enough intellectual mass that esca
 “I could probably build one.”  
 ↓
 
-> 🏆 **NEW ACHIEVEMENT: YOU WERE SUPPOSED TO BE SHOPPING.**
+> 🏆 **NEW ACHIEVEMENT: YOU WERE SUPPOSED TO BE SLEEPING.**
 >
 > You needed a thing. You found a thing. You identified a minor flaw in the thing and responded by acquiring an entire engineering discipline.
 >
