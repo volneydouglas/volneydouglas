@@ -33,15 +33,38 @@ It is impossible for Volney to simultaneously not understand something and leave
 
 #### Volney’s Law of Curiosity
 
-Every answered question produces between 2.7 and 6.4 additional questions.
+Some questions end. Others become better questions, experiments, software, or an excuse to own specialized equipment.
+
+**The Generalized Volney Equation**
 
 ```math
-\mathbb{E}[Q_n] = Q_0 r^n, \qquad 2.7 \leq r \leq 6.4
+\boxed{Q_{n+1} = Q_n - A_n + rA_n + \alpha K_n + \beta T_n}
 ```
 
-Here, $Q_0$ is the original number of questions, $r$ is the average number of new questions each answer creates, and $n$ is the number of rounds of answering every question from the previous round.
+- $Q_n$: unresolved questions after round $n$; $A_n$: questions answered during the next round.
+- $r$: average number of follow-up questions per answer. Some answers produce none. Others become a second education.
+- $K_n$: accumulated knowledge; $\alpha$: its ability to reveal questions I previously lacked the expertise to ask.
+- $T_n$: tools, equipment, and capabilities; $\beta$: the “well, now that I have the equipment…” coefficient.
 
-Start with one question. Three rounds later, expect roughly 20–262 more.
+Answering questions builds knowledge. Experiments, projects, and purchases expand what I can test. Both feed back into the next round.
+
+**Learning increases the resolution at which I can see what I don’t know.**
+
+**Volney’s First Corollary**
+
+The probability that a casual question results in owning specialized equipment approaches 1 as the number of follow-up questions approaches infinity.
+
+```math
+P(\text{UPS delivery by follow-up }m) = 1-e^{-\lambda m}, \qquad \lambda > 0
+```
+
+Here, $\lambda$ is my susceptibility to a sufficiently well-justified equipment purchase.
+
+```math
+\boxed{\lim_{m \to \infty} P(\text{UPS delivery by follow-up }m) = 1}
+```
+
+Curiosity has no guaranteed stopping point. It does, however, have a tracking number.
 
 *Research is the process of becoming more precisely overwhelmed.*
 
