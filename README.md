@@ -25,6 +25,53 @@ When I'm not engineering infrastructure, I'm probably gardening, traveling, or d
 - 📚 **MBA** — Project Management, Strayer University
 - 📝 Published researcher on data-driven decision making and innovation through crowdsourcing
 
+### The Laws of Volney
+
+#### Volney’s Uncertainty Principle
+
+It is impossible for Volney to simultaneously not understand something and leave it alone.
+
+#### Volney’s Law of Curiosity
+
+Every answered question produces between 2.7 and 6.4 additional questions.
+
+```math
+\mathbb{E}[Q_n] = Q_0 r^n, \qquad 2.7 \leq r \leq 6.4
+```
+
+Here, $Q_0$ is the original number of questions, $r$ is the average number of new questions each answer creates, and $n$ is the number of rounds of answering every question from the previous round.
+
+Start with one question. Three rounds later, expect roughly 20–262 more.
+
+*Research is the process of becoming more precisely overwhelmed.*
+
+#### The Volney Event Horizon
+
+The point at which a casual interest acquires enough intellectual mass that escape becomes impossible.
+
+### The Volney Hobby Lifecycle
+
+“That’s interesting.”  
+↓  
+“I wonder how that works.”  
+↓  
+“That’s actually pretty simple.”  
+↓  
+“The commercial products aren’t very good.”  
+↓  
+“I could probably build one.”  
+↓
+
+> 🏆 **NEW ACHIEVEMENT: YOU WERE SUPPOSED TO BE SHOPPING.**
+>
+> You needed a thing. You found a thing. You identified a minor flaw in the thing and responded by acquiring an entire engineering discipline.
+>
+> **Reward:** You can now explain, in extraordinary detail, why yours isn’t finished yet.
+
+### In my defense
+
+“My parents raised me to believe curiosity was a virtue. Nobody explained that you’re eventually supposed to stop researching the thing and just buy the normal one like everybody else.”
+
 ### Let's connect
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/volneydouglas)
